@@ -2,7 +2,7 @@
 
 Tugas Besar Mata Kuliah Kecerdasan Buatan.
 
-**KELOMPOK 10 (JMK 48**
+**KELOMPOK 10 (JMK 48)**
 
 Universitas Muhammadiyah Kota Sorong
 
